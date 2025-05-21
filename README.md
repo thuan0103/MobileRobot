@@ -1,6 +1,6 @@
 # MobileRobot
 
-Dự án này mô phỏng một xe robot di chuyển tự động trong môi trường ảo (sử dụng Gazebo + ROS 2), với mục tiêu đến tọa độ đích **(9, -8)**. Robot được điều khiển thông qua **mạng nơ-ron nhân tạo (ANN)** và được huấn luyện/bối ưu thông qua **thuật toán di truyền (Genetic Algorithm - GA)**.
+Dự án này mô phỏng một xe robot di chuyển tự động trong môi trường ảo (sử dụng Gazebo + ROS 2), với mục tiêu đến tọa độ đích **(4, -10)**. Robot được điều khiển thông qua **mạng nơ-ron nhân tạo (ANN)** và được huấn luyện/bối ưu thông qua **thuật toán di truyền (Genetic Algorithm - GA)**.
 
 ## 🚀 Mục tiêu dự án
 - Mô phỏng một robot di chuyển trong môi trường Gazebo.
