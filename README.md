@@ -25,3 +25,32 @@ Dự án này mô phỏng một xe robot di chuyển tự động trong môi tr�
 - **Output**: 
   - Vận tốc tuyến tính (`linear.x`).
   - Vận tốc góc (`angular.z`).
+
+# MobileRobot
+
+This project simulates an autonomous mobile robot navigating in a virtual environment using **Gazebo** and **ROS 2**. The robot’s objective is to reach the target coordinate **(9, -8)**. It is controlled by an **Artificial Neural Network (ANN)**, which is trained and optimized using a **Genetic Algorithm (GA)**.
+
+## 🚀 Project Objectives
+- Simulate a mobile robot moving within the Gazebo environment.
+- Apply a neural network to learn how to control the robot to reach the target position.
+- Use a genetic algorithm to optimize the neural network parameters.
+- Evaluate the control performance based on distance traveled, travel time, and positional error.
+
+## 🛠 Technologies Used
+- **ROS 2 (Foxy/Humble)** – Robot operating system.
+- **Gazebo** – 3D simulation environment.
+- **Python** – Main programming language.
+- **NumPy** – Numerical computations.
+- **Neural Network** – Custom-built (optional: can use PyTorch).
+- **Genetic Algorithm** – Custom implementation for network training and optimization.
+
+## 🧠 Control Structure
+- **Input:** 16 features including:
+  - 11 distance measurements from LiDAR sensors.
+  - Current position (x, y).
+  - Current orientation (yaw).
+  - Target coordinates (x_goal, y_goal).
+  
+- **Output:**
+  - Linear velocity (`linear.x`).
+  - Angular velocity (`angular.z`).
