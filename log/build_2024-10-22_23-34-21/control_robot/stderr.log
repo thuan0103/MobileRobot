@@ -1,0 +1,5 @@
+  File "/home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot/robot.py", line 171
+    elif i = 'w1':
+         ^^^^^^^^
+SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+

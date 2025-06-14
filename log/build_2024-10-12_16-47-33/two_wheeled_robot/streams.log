@@ -1,0 +1,57 @@
+[0.216s] Invoking command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/Desktop/robot/build/two_wheeled_robot -- -j5 -l5
+[0.266s] Invoked command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/Desktop/robot/build/two_wheeled_robot -- -j5 -l5
+[0.314s] Invoking command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/Desktop/robot/build/two_wheeled_robot
+[0.332s] -- Install configuration: ""
+[0.332s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/config
+[0.332s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/build
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/build/.built_by
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/build/COLCON_IGNORE
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/two_wheeled_robot.launch.py
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/setup.ps1
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/setup.sh
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/.colcon_install_layout
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/setup.bash
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/local_setup.bash
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/setup.zsh
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/local_setup.ps1
+[0.333s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/_local_setup_util_ps1.py
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/local_setup.sh
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/COLCON_IGNORE
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/local_setup.zsh
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/install/_local_setup_util_sh.py
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log/build_2024-10-11_10-51-31
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log/build_2024-10-11_10-51-31/logger_all.log
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log/build_2024-10-11_10-51-31/events.log
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log/latest_build
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log/COLCON_IGNORE
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/log/latest
+[0.335s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/maps
+[0.336s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/meshes
+[0.336s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/meshes/robot_base.stl
+[0.336s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/models
+[0.336s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/params
+[0.336s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/rviz
+[0.339s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/rviz/rviz_basic_settings.rviz
+[0.339s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/src
+[0.339s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/urdf
+[0.339s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/urdf/two_wheeled_robot.urdf
+[0.339s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds
+[0.339s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/ament_index/resource_index/package_run_dependencies/two_wheeled_robot
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/ament_index/resource_index/parent_prefix_path/two_wheeled_robot
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/ament_prefix_path.sh
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/ament_prefix_path.dsv
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/path.sh
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/path.dsv
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.bash
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.sh
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.zsh
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.dsv
+[0.341s] -- Installing: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/package.dsv
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/ament_index/resource_index/packages/two_wheeled_robot
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/cmake/two_wheeled_robotConfig.cmake
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/cmake/two_wheeled_robotConfig-version.cmake
+[0.341s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/package.xml
+[0.341s] Invoked command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/Desktop/robot/build/two_wheeled_robot

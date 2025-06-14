@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/control_robot/control_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/control_robot/control_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/control_robot/control_robot.egg-info/entry_points.txt
+writing requirements to ../../build/control_robot/control_robot.egg-info/requires.txt
+writing top-level names to ../../build/control_robot/control_robot.egg-info/top_level.txt
+reading manifest file '../../build/control_robot/control_robot.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/control_robot/control_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/control_robot/control_robot.egg-info to /home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing robot script to /home/vboxuser/Desktop/robot/install/control_robot/lib/control_robot
+writing list of installed files to '/home/vboxuser/Desktop/robot/build/control_robot/install.log'

@@ -1,0 +1,45 @@
+[0.485s] Invoking command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/Desktop/robot/build/two_wheeled_robot -- -j5 -l5
+[0.714s] Invoked command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/Desktop/robot/build/two_wheeled_robot -- -j5 -l5
+[1.060s] Invoking command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/Desktop/robot/build/two_wheeled_robot
+[1.089s] -- Install configuration: ""
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/config
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/launch/two_wheeled_robot.launch.py
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/maps
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/meshes
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/meshes/car2.stl
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/meshes/robot_base.stl
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/models
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/params
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/rviz
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/rviz/rviz_basic_settings.rviz
+[1.089s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/src
+[1.090s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/urdf
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/urdf/two_wheeled_robot.urdf
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/meshes
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/meshes/map.stl
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/meshes/map.dae
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/materials
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/materials/textures
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/materials/textures/g.png
+[1.091s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/model.config
+[1.096s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/My/model.world
+[1.096s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/worlds/new
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/ament_index/resource_index/package_run_dependencies/two_wheeled_robot
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/ament_index/resource_index/parent_prefix_path/two_wheeled_robot
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/ament_prefix_path.sh
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/ament_prefix_path.dsv
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/path.sh
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/environment/path.dsv
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.bash
+[1.099s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.sh
+[1.100s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.zsh
+[1.100s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/local_setup.dsv
+[1.100s] -- Installing: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/package.dsv
+[1.100s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/ament_index/resource_index/packages/two_wheeled_robot
+[1.100s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/cmake/two_wheeled_robotConfig.cmake
+[1.100s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/cmake/two_wheeled_robotConfig-version.cmake
+[1.101s] -- Up-to-date: /home/vboxuser/Desktop/robot/install/two_wheeled_robot/share/two_wheeled_robot/package.xml
+[1.111s] Invoked command in '/home/vboxuser/Desktop/robot/build/two_wheeled_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/Desktop/robot/install/control_robot:/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/Desktop/robot/build/two_wheeled_robot

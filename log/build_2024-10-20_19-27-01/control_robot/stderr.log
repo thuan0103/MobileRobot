@@ -1,0 +1,5 @@
+  File "/home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot/robot.py", line 25
+    self.cli_set_state = self.create_client(SetEntityState, '/gazebo/set_entity_state)
+                                                            ^
+SyntaxError: unterminated string literal (detected at line 25)
+

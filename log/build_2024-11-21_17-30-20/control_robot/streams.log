@@ -1,0 +1,26 @@
+[0.853s] Invoking command in '/home/vboxuser/Desktop/robot/src/control_robot': PYTHONPATH=/home/vboxuser/Desktop/robot/build/control_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/control_robot build --build-base /home/vboxuser/Desktop/robot/build/control_robot/build install --record /home/vboxuser/Desktop/robot/build/control_robot/install.log --single-version-externally-managed install_data
+[1.027s] running egg_info
+[1.033s] writing ../../build/control_robot/control_robot.egg-info/PKG-INFO
+[1.034s] writing dependency_links to ../../build/control_robot/control_robot.egg-info/dependency_links.txt
+[1.034s] writing entry points to ../../build/control_robot/control_robot.egg-info/entry_points.txt
+[1.034s] writing requirements to ../../build/control_robot/control_robot.egg-info/requires.txt
+[1.034s] writing top-level names to ../../build/control_robot/control_robot.egg-info/top_level.txt
+[1.036s] reading manifest file '../../build/control_robot/control_robot.egg-info/SOURCES.txt'
+[1.043s] adding license file 'LICENSE'
+[1.043s] writing manifest file '../../build/control_robot/control_robot.egg-info/SOURCES.txt'
+[1.043s] running build
+[1.043s] running build_py
+[1.043s] copying control_robot/robot.py -> /home/vboxuser/Desktop/robot/build/control_robot/build/lib/control_robot
+[1.043s] running install
+[1.043s] running install_lib
+[1.043s] copying /home/vboxuser/Desktop/robot/build/control_robot/build/lib/control_robot/robot.py -> /home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot
+[1.043s] byte-compiling /home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot/robot.py to robot.cpython-310.pyc
+[1.043s] running install_data
+[1.043s] running install_egg_info
+[1.045s] removing '/home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.045s] Copying ../../build/control_robot/control_robot.egg-info to /home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages/control_robot-0.0.0-py3.10.egg-info
+[1.045s] running install_scripts
+[1.072s] Installing a script to /home/vboxuser/Desktop/robot/install/control_robot/lib/control_robot
+[1.072s] Installing robot script to /home/vboxuser/Desktop/robot/install/control_robot/lib/control_robot
+[1.075s] writing list of installed files to '/home/vboxuser/Desktop/robot/build/control_robot/install.log'
+[1.113s] Invoked command in '/home/vboxuser/Desktop/robot/src/control_robot' returned '0': PYTHONPATH=/home/vboxuser/Desktop/robot/build/control_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Desktop/robot/install/control_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/control_robot build --build-base /home/vboxuser/Desktop/robot/build/control_robot/build install --record /home/vboxuser/Desktop/robot/build/control_robot/install.log --single-version-externally-managed install_data

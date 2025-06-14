@@ -1,0 +1,4 @@
+[console_scripts]
+a = control_robot.a:main
+robot = control_robot.robot:main
+
